@@ -4,6 +4,7 @@ DigitalTechnologyMB
 
 * <http://meritbadge.org/wiki/index.php/Digital_Technology>
 * <http://www.scouting.org/cyberchip.aspx>
+* <http://www.nsteens.org/Videos/FriendOrFake> // link to videos
 
 Relevant links
 -----------------
