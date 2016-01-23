@@ -10,6 +10,7 @@ DigitalTechnologyMB
 Relevant links
 -----------------
 
+* <http://www.scouting.org/filestore/youthprotection/pdf/100-053.pdf>
 * <http://www.dumblittleman.com/2015/12/eco-friendly-ways-disposing-electronic-gadgets.html>
 
 
