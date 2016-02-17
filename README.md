@@ -22,4 +22,4 @@ Meeting notes
 
 Individual progress towards requirements
 -----------------
-Individual progress is being tracked as [https://github.com/demeyere/DigitalTechnologyMB/issues](issues). The issue title is the Initials of the scout working on the badge with a list of requirements that are finished and yet to be finished.
+Individual progress is being tracked as an [issue](https://github.com/demeyere/DigitalTechnologyMB/issues). The issue title is the Initials of the scout working on the badge with a list of requirements that are finished and yet to be finished.
