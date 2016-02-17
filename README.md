@@ -19,3 +19,7 @@ Meeting notes
 
 * <https://github.com/demeyere/DigitalTechnologyMB/blob/master/20160112.md>
 * <https://github.com/demeyere/DigitalTechnologyMB/blob/master/20160119.md>
+
+Individual progress towards requirements
+-----------------
+Individual progress is being tracked using the `issues` function. The issue title is the Initials of the scout working on the badge with a list of requirements that are finished and yet to be finished.
